@@ -25,9 +25,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
+
 Here's a walkthrough of implemented user stories:
 ![demo](123.gif)
-<img src='/gao288/tippy/blob/master/123.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
